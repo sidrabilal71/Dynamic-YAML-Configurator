@@ -80,8 +80,8 @@ FILE_PATH = 'path/to/your/example-config.yml'
 ### 3. Running the Server
 
 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+```bash[
+https://github.com/sidrabilal71/Dynamic_YAML_Configurator
 
 ```
 

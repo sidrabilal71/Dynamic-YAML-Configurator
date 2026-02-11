@@ -81,7 +81,7 @@ FILE_PATH = 'path/to/your/example-config.yml'
 
 1. Clone the repository:
 ```bash[
-https://github.com/sidrabilal71/Dynamic_YAML_Configurator
+git clone [https://github.com/sidrabilal71/Dynamic_YAML_Configurator]
 
 ```
 
